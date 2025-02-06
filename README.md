@@ -1,6 +1,4 @@
-# GPSm
-Title: Graph-Based Privacy-Preserving Representation
-Learning Framework for Social Media Data
+# GPSm - Graph-Based Privacy-Preserving Representation Learning Framework for Social Media Data
 
 Abstract: The widespread use of social media data in be-
 havioral and societal studies, such as analyzing online opinion
